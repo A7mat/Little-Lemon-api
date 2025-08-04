@@ -74,6 +74,3 @@ python manage.py runserver
 This project is licensed under the MIT License.
 
 ---
-
-## 📌 Acknowledgments
-_This project was developed as part of the **Meta Back-End Developer Professional Certificate** program._
