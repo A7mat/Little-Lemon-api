@@ -1,4 +1,4 @@
-# Little Lemon API
+# 🍋 Little Lemon Restaurant - Backend API
 
 A **Django REST Framework (DRF)** backend API for the **Little Lemon Restaurant** project. This API enables customers to browse food items, view the item of the day, and place orders. Managers can manage menu items and orders, while delivery crew members can view and update assigned deliveries.
 
