@@ -66,8 +66,6 @@ python manage.py runserver
 | `/api/orders/{id}/`      | PATCH  | Update order status           |
 | `/api/item-of-the-day/`  | GET    | Get item of the day           |
 
-*(Add full API documentation if available or include Postman collection link)*
-
 ---
 
 ## 📄 License
